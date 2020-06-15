@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Insert pasien</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbc39ceb-5c74-4474-8da5-b38b99fff879</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b3cd4b1-129a-4f20-9d77-d8bcb4c0dafe</id>
+      <masked>false</masked>
+      <name>Nama</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>37ca8165-f246-4127-8321-2576702cf57c</id>
+      <masked>false</masked>
+      <name>NoRekamMedis</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f94dd3b-0e98-42e3-a422-22cfff80f7ef</id>
+      <masked>false</masked>
+      <name>NoTlp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a50fe0a-9ef8-475d-91db-9d9887068654</id>
+      <masked>false</masked>
+      <name>TglLahir</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>348c401e-e5d3-46ef-90ad-2356e87c37a9</id>
+      <masked>false</masked>
+      <name>Alamat</name>
+   </variable>
+</TestCaseEntity>
